@@ -1,0 +1,7 @@
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/modules/audio_i2s.c:65:13:i2s_comp_handler	16	static
+C:/ncs/v2.2.0/zephyr/include/zephyr/drivers/pinctrl.h:342:19:pinctrl_apply_state	16	static
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/modules/audio_i2s.c:74:6:audio_i2s_set_next_buf	16	static
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/modules/audio_i2s.c:91:6:audio_i2s_start	16	static
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/modules/audio_i2s.c:111:6:audio_i2s_stop	8	static
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/modules/audio_i2s.c:120:6:audio_i2s_blk_comp_cb_register	0	static
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/modules/audio_i2s.c:125:6:audio_i2s_init	8	static

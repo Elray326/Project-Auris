@@ -1,0 +1,4 @@
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/events/ctrl_events.c:34:6:ctrl_events_queue_empty	0	static
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/events/ctrl_events.c:43:5:ctrl_events_put	64	dynamic,bounded
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/events/ctrl_events.c:24:5:ctrl_events_le_audio_event_send	24	static
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/events/ctrl_events.c:53:5:ctrl_events_get	8	static

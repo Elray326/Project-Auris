@@ -1,0 +1,6 @@
+C:/ncs/v2.2.0/zephyr/subsys/logging/backends/log_backend_uart.c:61:12:char_out	16	static
+C:/ncs/v2.2.0/zephyr/subsys/logging/backends/log_backend_uart.c:103:12:format_set	0	static
+C:/ncs/v2.2.0/zephyr/subsys/logging/backends/log_backend_uart.c:109:13:log_backend_uart_init	8	static
+C:/ncs/v2.2.0/zephyr/subsys/logging/backends/log_backend_uart.c:139:13:panic	8	static
+C:/ncs/v2.2.0/zephyr/subsys/logging/backends/log_backend_uart.c:145:13:dropped	8	static
+C:/ncs/v2.2.0/zephyr/subsys/logging/backends/log_backend_uart.c:93:13:process	8	static

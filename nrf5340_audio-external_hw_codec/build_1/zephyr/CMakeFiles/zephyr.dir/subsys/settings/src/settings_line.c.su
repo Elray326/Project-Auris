@@ -1,0 +1,13 @@
+C:/ncs/v2.2.0/zephyr/subsys/settings/src/settings_line.c:180:12:settings_line_raw_read_until	80	static
+C:/ncs/v2.2.0/zephyr/subsys/settings/src/settings_line.c:26:5:settings_line_write	64	static
+C:/ncs/v2.2.0/zephyr/subsys/settings/src/settings_line.c:152:5:settings_line_len_calc	8	static
+C:/ncs/v2.2.0/zephyr/subsys/settings/src/settings_line.c:242:5:settings_line_raw_read	16	static
+C:/ncs/v2.2.0/zephyr/subsys/settings/src/settings_line.c:250:5:settings_line_val_read	16	static
+C:/ncs/v2.2.0/zephyr/subsys/settings/src/settings_line.c:334:12:settings_line_cmp	64	static
+C:/ncs/v2.2.0/zephyr/subsys/settings/src/settings_line.c:398:16:settings_line_read_cb	24	static
+C:/ncs/v2.2.0/zephyr/subsys/settings/src/settings_line.c:257:8:settings_line_val_get_len	8	static
+C:/ncs/v2.2.0/zephyr/subsys/settings/src/settings_line.c:273:5:settings_line_name_read	24	static
+C:/ncs/v2.2.0/zephyr/subsys/settings/src/settings_line.c:283:5:settings_line_entry_copy	56	static
+C:/ncs/v2.2.0/zephyr/subsys/settings/src/settings_line.c:319:6:settings_line_io_init	4	static
+C:/ncs/v2.2.0/zephyr/subsys/settings/src/settings_line.c:371:5:settings_line_dup_check_cb	16	static
+C:/ncs/v2.2.0/zephyr/subsys/settings/src/settings_line.c:415:5:settings_line_load_cb	32	static

@@ -1,0 +1,8 @@
+C:/ncs/v2.2.0/zephyr/subsys/settings/src/settings_nvs.c:338:14:settings_nvs_storage_get	0	static
+C:/ncs/v2.2.0/zephyr/subsys/settings/src/settings_nvs.c:42:16:settings_nvs_read_fn	8	static
+C:/ncs/v2.2.0/zephyr/subsys/settings/src/settings_nvs.c:139:12:settings_nvs_save	128	static
+C:/ncs/v2.2.0/zephyr/subsys/settings/src/settings_nvs.c:75:12:settings_nvs_load	128	static
+C:/ncs/v2.2.0/zephyr/subsys/settings/src/settings_nvs.c:59:5:settings_nvs_src	8	static
+C:/ncs/v2.2.0/zephyr/subsys/settings/src/settings_nvs.c:67:5:settings_nvs_dst	8	static
+C:/ncs/v2.2.0/zephyr/subsys/settings/src/settings_nvs.c:251:5:settings_nvs_backend_init	24	static
+C:/ncs/v2.2.0/zephyr/subsys/settings/src/settings_nvs.c:278:5:settings_backend_init	24	static

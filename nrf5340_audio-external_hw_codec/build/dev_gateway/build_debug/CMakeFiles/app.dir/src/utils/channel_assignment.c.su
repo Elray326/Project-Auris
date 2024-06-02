@@ -1,0 +1,3 @@
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/utils/channel_assignment.c:18:6:channel_assignment_get	0	static
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/utils/channel_assignment.c:24:6:channel_assignment_set	8	static
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/utils/channel_assignment.c:38:6:channel_assignment_init	8	static

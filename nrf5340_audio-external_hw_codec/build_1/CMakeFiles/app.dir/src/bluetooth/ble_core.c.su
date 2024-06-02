@@ -1,0 +1,11 @@
+../src/bluetooth/ble_core.c:40:13:net_core_timeout_handler	88	dynamic,bounded
+../src/bluetooth/ble_core.c:137:13:net_core_watchdog_handler	8	static
+../src/bluetooth/ble_core.c:87:12:ble_core_le_lost_notify_enable	8	static
+C:/ncs/v2.2.0/zephyr/include/zephyr/bluetooth/addr.h:231:19:bt_addr_le_to_str	64	static
+../src/bluetooth/ble_core.c:79:13:mac_print	88	dynamic,bounded
+../src/bluetooth/ble_core.c:116:12:controller_leds_mapping	8	static
+../src/bluetooth/ble_core.c:156:5:net_core_ctrl_version_get	24	static
+../src/bluetooth/ble_core.c:142:13:work_net_core_ctrl_version_get	168	dynamic,bounded
+../src/bluetooth/ble_core.c:93:13:on_bt_ready	200	dynamic,bounded
+../src/bluetooth/ble_core.c:175:5:ble_core_le_pwr_ctrl_disable	8	static
+../src/bluetooth/ble_core.c:180:5:ble_core_init	104	dynamic,bounded

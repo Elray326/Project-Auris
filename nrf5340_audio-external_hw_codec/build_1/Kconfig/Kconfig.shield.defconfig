@@ -1,0 +1,2 @@
+osource "c:/Users/elray/Documents/humerus/Haptic/boards/shields/*/Kconfig.defconfig"
+osource "C:/ncs/v2.2.0/nrf/boards/shields/*/Kconfig.defconfig"

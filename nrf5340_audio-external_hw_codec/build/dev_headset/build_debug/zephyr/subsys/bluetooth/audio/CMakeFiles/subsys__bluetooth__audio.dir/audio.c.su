@@ -1,0 +1,4 @@
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/audio/audio.c:16:16:bt_audio_security_check	40	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/audio/audio.c:44:9:bt_audio_read_chrc	32	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/audio/audio.c:65:9:bt_audio_write_chrc	32	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/audio/audio.c:86:9:bt_audio_ccc_cfg_write	8	static

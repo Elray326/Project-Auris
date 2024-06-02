@@ -1,0 +1,12 @@
+C:/ncs/v2.2.0/zephyr/include/zephyr/sys/slist.h:401:1:sys_slist_remove	0	static
+C:/ncs/v2.2.0/zephyr/include/zephyr/sys/slist.h:417:1:sys_slist_find_and_remove	8	static
+C:/ncs/v2.2.0/zephyr/include/zephyr/sys/atomic.h:152:20:atomic_test_and_clear_bit	4	static
+C:/ncs/v2.2.0/zephyr/subsys/pm/pm.c:112:20:pm_exit_pos_ops	8	static
+C:/ncs/v2.2.0/zephyr/subsys/pm/pm.c:145:20:pm_state_notify	16	static
+C:/ncs/v2.2.0/zephyr/include/zephyr/sys/atomic.h:217:20:atomic_set_bit	0	static
+C:/ncs/v2.2.0/zephyr/subsys/pm/pm.c:166:6:pm_system_resume	16	static
+C:/ncs/v2.2.0/zephyr/subsys/pm/pm.c:190:6:pm_state_force	24	static
+C:/ncs/v2.2.0/zephyr/subsys/pm/pm.c:204:6:pm_system_suspend	24	static
+C:/ncs/v2.2.0/zephyr/subsys/pm/pm.c:288:6:pm_notifier_register	16	static
+C:/ncs/v2.2.0/zephyr/subsys/pm/pm.c:296:5:pm_notifier_unregister	16	static
+C:/ncs/v2.2.0/zephyr/subsys/pm/pm.c:310:29:pm_state_next_get	0	static

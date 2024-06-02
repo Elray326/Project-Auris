@@ -1,0 +1,15 @@
+C:/ncs/v2.2.0/zephyr/include/zephyr/bluetooth/addr.h:126:20:bt_addr_le_copy	0	static
+C:/ncs/v2.2.0/zephyr/include/zephyr/bluetooth/addr.h:116:20:bt_addr_copy	0	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/host/keys.c:460:13:id_add	8	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/host/keys.c:82:17:bt_keys_get_addr	32	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/host/keys.c:153:6:bt_foreach_bond	32	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/host/keys.c:173:6:bt_keys_foreach_type	24	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/host/keys.c:467:12:keys_commit	8	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/host/keys.c:187:17:bt_keys_find	24	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/host/keys.c:228:17:bt_keys_find_irk	24	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/host/keys.c:279:17:bt_keys_find_addr	16	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/host/keys.c:297:6:bt_keys_add_type	8	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/host/keys.c:205:17:bt_keys_get_type	24	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/host/keys.c:304:6:bt_keys_clear	64	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/host/keys.c:367:12:keys_set	344	dynamic,bounded
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/host/keys.c:337:5:bt_keys_store	104	dynamic,bounded

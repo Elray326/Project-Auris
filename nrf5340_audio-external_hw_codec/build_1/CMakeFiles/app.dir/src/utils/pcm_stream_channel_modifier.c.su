@@ -1,0 +1,7 @@
+../src/utils/pcm_stream_channel_modifier.c:24:13:is_valid_bit_depth	56	dynamic,bounded
+../src/utils/pcm_stream_channel_modifier.c:43:13:is_valid_size	56	dynamic,bounded
+../src/utils/pcm_stream_channel_modifier.c:54:5:pscm_zero_pad	56	static
+../src/utils/pcm_stream_channel_modifier.c:93:5:pscm_copy_pad	24	static
+../src/utils/pcm_stream_channel_modifier.c:121:5:pscm_combine	24	static
+../src/utils/pcm_stream_channel_modifier.c:147:5:pscm_one_channel_split	56	static
+../src/utils/pcm_stream_channel_modifier.c:183:5:pscm_two_channel_split	24	static

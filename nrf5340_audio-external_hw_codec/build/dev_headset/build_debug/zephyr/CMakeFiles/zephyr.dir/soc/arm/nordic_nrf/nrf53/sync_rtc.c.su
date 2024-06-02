@@ -1,0 +1,17 @@
+C:/ncs/v2.2.0/zephyr/include/zephyr/drivers/mbox.h:294:19:mbox_register_callback	8	static
+C:/ncs/v2.2.0/zephyr/include/zephyr/drivers/mbox.h:366:19:z_impl_mbox_set_enabled	8	static
+C:/ncs/v2.2.0/zephyr/soc/arm/nordic_nrf/nrf53/sync_rtc.c:207:12:mbox_rx_init	16	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/hal/nrf_ipc.h:479:34:nrf_ipc_send_task_get	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/helpers/nrfx_gppi.h:582:22:nrfx_gppi_event_endpoint_setup	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/helpers/nrfx_gppi.h:602:22:nrfx_gppi_event_endpoint_clear	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/hal/nrf_ipc.h:485:35:nrf_ipc_receive_event_get	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/helpers/nrfx_gppi.h:588:22:nrfx_gppi_task_endpoint_setup	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/helpers/nrfx_gppi.h:609:22:nrfx_gppi_task_endpoint_clear	8	static
+C:/ncs/v2.2.0/zephyr/soc/arm/nordic_nrf/nrf53/sync_rtc.c:107:13:free_resources	8	static
+C:/ncs/v2.2.0/zephyr/soc/arm/nordic_nrf/nrf53/sync_rtc.c:92:13:ppi_rtc_to_ipc	24	static
+C:/ncs/v2.2.0/zephyr/soc/arm/nordic_nrf/nrf53/sync_rtc.c:128:13:rtc_cb	8	static
+C:/ncs/v2.2.0/zephyr/soc/arm/nordic_nrf/nrf53/sync_rtc.c:73:13:ppi_ipc_to_rtc	16	static
+C:/ncs/v2.2.0/zephyr/soc/arm/nordic_nrf/nrf53/sync_rtc.c:153:13:remote_callback	24	static
+C:/ncs/v2.2.0/zephyr/soc/arm/nordic_nrf/nrf53/sync_rtc.c:192:13:mbox_callback	16	static
+C:/ncs/v2.2.0/zephyr/soc/arm/nordic_nrf/nrf53/sync_rtc.c:229:12:sync_rtc_setup	64	dynamic,bounded
+C:/ncs/v2.2.0/zephyr/soc/arm/nordic_nrf/nrf53/sync_rtc.c:119:5:z_nrf_rtc_timer_nrf53net_offset_get	0	static

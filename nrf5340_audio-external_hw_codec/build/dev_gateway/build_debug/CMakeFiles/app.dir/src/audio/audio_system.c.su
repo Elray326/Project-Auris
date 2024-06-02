@@ -1,0 +1,10 @@
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/audio/audio_system.c:46:13:audio_gateway_configure	0	static
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/audio/audio_system.c:92:13:encoder_thread	3200	dynamic,bounded
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/audio/audio_system.c:167:5:audio_encode_test_tone_set	56	dynamic,bounded
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/audio/audio_system.c:187:5:audio_decode	112	static
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/audio/audio_system.c:272:6:audio_system_start	320	dynamic,bounded
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/audio/audio_system.c:382:12:cmd_audio_system_start	8	static
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/audio/audio_system.c:319:6:audio_system_stop	128	dynamic,bounded
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/audio/audio_system.c:394:12:cmd_audio_system_stop	8	static
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/audio/audio_system.c:348:5:audio_system_fifo_rx_block_drop	56	static
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/audio/audio_system.c:366:6:audio_system_init	56	dynamic,bounded

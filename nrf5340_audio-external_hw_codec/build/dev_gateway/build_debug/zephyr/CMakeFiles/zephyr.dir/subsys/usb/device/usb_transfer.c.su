@@ -1,0 +1,10 @@
+C:/ncs/v2.2.0/zephyr/subsys/usb/device/usb_transfer.c:51:34:usb_ep_get_transfer	0	static
+C:/ncs/v2.2.0/zephyr/subsys/usb/device/usb_transfer.c:73:13:usb_transfer_work	104	dynamic,bounded
+C:/ncs/v2.2.0/zephyr/subsys/usb/device/usb_transfer.c:303:13:usb_transfer_sync_cb	8	static
+C:/ncs/v2.2.0/zephyr/subsys/usb/device/usb_transfer.c:62:6:usb_transfer_is_busy	8	static
+C:/ncs/v2.2.0/zephyr/subsys/usb/device/usb_transfer.c:160:6:usb_transfer_ep_callback	48	static
+C:/ncs/v2.2.0/zephyr/subsys/usb/device/usb_transfer.c:197:5:usb_transfer	112	dynamic,bounded
+C:/ncs/v2.2.0/zephyr/subsys/usb/device/usb_transfer.c:262:6:usb_cancel_transfer	8	static
+C:/ncs/v2.2.0/zephyr/subsys/usb/device/usb_transfer.c:285:6:usb_cancel_transfers	16	static
+C:/ncs/v2.2.0/zephyr/subsys/usb/device/usb_transfer.c:311:5:usb_transfer_sync	64	static
+C:/ncs/v2.2.0/zephyr/subsys/usb/device/usb_transfer.c:345:5:usb_transfer_init	16	static

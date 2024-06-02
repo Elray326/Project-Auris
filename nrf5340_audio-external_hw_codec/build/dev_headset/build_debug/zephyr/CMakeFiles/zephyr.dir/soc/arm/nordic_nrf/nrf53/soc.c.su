@@ -1,0 +1,6 @@
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/soc/nrfx_coredep.h:134:24:nrfx_coredep_delay_us	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/hal/nrf_gpio.h:989:24:nrf_gpio_pin_present_check	0	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/hal/nrf_gpio.h:581:35:nrf_gpio_pin_port_decode	16	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/hal/nrf_gpio.h:974:24:nrf_gpio_pin_control_select	16	static
+C:/ncs/v2.2.0/zephyr/soc/arm/nordic_nrf/nrf53/soc.c:95:12:nordicsemi_nrf53_init	16	static
+C:/ncs/v2.2.0/zephyr/soc/arm/nordic_nrf/nrf53/soc.c:191:6:arch_busy_wait	8	static

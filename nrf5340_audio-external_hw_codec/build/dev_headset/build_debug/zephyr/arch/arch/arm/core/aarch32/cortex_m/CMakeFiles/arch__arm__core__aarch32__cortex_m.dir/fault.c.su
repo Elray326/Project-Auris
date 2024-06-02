@@ -1,0 +1,12 @@
+C:/ncs/v2.2.0/zephyr/arch/arm/core/aarch32/cortex_m/fault.c:186:13:memory_fault_recoverable	0	static
+C:/ncs/v2.2.0/zephyr/arch/arm/core/aarch32/cortex_m/fault.c:658:20:z_arm_is_synchronous_svc	0	static
+C:/ncs/v2.2.0/zephyr/arch/arm/core/aarch32/cortex_m/fault.c:894:29:get_esf	40	static
+C:/ncs/v2.2.0/zephyr/arch/arm/core/aarch32/cortex_m/fault.c:229:17:mem_manage_fault	208	dynamic,bounded
+C:/ncs/v2.2.0/zephyr/arch/arm/core/aarch32/cortex_m/fault.c:383:12:bus_fault	232	dynamic,bounded
+C:/ncs/v2.2.0/zephyr/arch/arm/core/aarch32/cortex_m/fault.c:539:17:usage_fault	208	static
+C:/ncs/v2.2.0/zephyr/arch/arm/core/aarch32/cortex_m/fault.c:709:17:hard_fault	160	dynamic,bounded
+C:/ncs/v2.2.0/zephyr/arch/arm/core/aarch32/cortex_m/fault.c:632:13:debug_monitor	40	static
+C:/ncs/v2.2.0/zephyr/arch/arm/core/aarch32/cortex_m/fault.c:776:13:reserved_exception	64	dynamic,bounded
+C:/ncs/v2.2.0/zephyr/arch/arm/core/aarch32/cortex_m/fault.c:786:17:fault_handle	8	static
+C:/ncs/v2.2.0/zephyr/arch/arm/core/aarch32/cortex_m/fault.c:1036:6:z_arm_fault	128	static
+C:/ncs/v2.2.0/zephyr/arch/arm/core/aarch32/cortex_m/fault.c:1107:6:z_arm_fault_init	0	static

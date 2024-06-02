@@ -1,0 +1,6 @@
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_usbreg.c:42:29:nrfx_usbreg_handler_get	0	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_usbreg.c:62:6:nrfx_usbreg_enable	0	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_usbreg.c:69:6:nrfx_usbreg_disable	0	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_usbreg.c:76:6:nrfx_usbreg_uninit	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_usbreg.c:47:6:nrfx_usbreg_init	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_usbreg.c:83:6:nrfx_usbreg_irq_handler	8	static

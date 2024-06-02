@@ -1,0 +1,5 @@
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/utils/error_handler.c:19:13:led_error_indication	8	static
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/utils/error_handler.c:28:6:error_handler	56	dynamic,bounded
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/utils/error_handler.c:50:6:bt_ctlr_assert_handle	64	dynamic,bounded
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/utils/error_handler.c:56:6:k_sys_fatal_error_handler	8	static
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/utils/error_handler.c:61:6:assert_post_action	64	dynamic,bounded

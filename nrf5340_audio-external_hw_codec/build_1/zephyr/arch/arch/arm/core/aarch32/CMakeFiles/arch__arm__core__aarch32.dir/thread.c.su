@@ -1,0 +1,6 @@
+C:/ncs/v2.2.0/zephyr/arch/arm/core/aarch32/thread.c:506:13:z_arm_prepare_switch_to_main	0	static
+C:/ncs/v2.2.0/zephyr/arch/arm/core/aarch32/thread.c:56:6:arch_new_thread	4	static
+C:/ncs/v2.2.0/zephyr/arch/arm/core/aarch32/thread.c:301:6:configure_builtin_stack_guard	0	static
+C:/ncs/v2.2.0/zephyr/arch/arm/core/aarch32/thread.c:459:5:arch_float_disable	0	static
+C:/ncs/v2.2.0/zephyr/arch/arm/core/aarch32/thread.c:495:5:arch_float_enable	0	static
+C:/ncs/v2.2.0/zephyr/arch/arm/core/aarch32/thread.c:530:6:arch_switch_to_main_thread	8	static

@@ -1,0 +1,7 @@
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/audio/unicast_server.c:22:5:bt_audio_unicast_server_register_cb	0	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/audio/unicast_server.c:39:5:bt_audio_unicast_server_unregister_cb	0	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/audio/unicast_server.c:56:5:bt_unicast_server_reconfig	24	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/audio/unicast_server.c:83:5:bt_unicast_server_start	16	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/audio/unicast_server.c:102:5:bt_unicast_server_metadata	24	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/audio/unicast_server.c:132:5:bt_unicast_server_disable	16	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/audio/unicast_server.c:161:5:bt_unicast_server_release	16	static

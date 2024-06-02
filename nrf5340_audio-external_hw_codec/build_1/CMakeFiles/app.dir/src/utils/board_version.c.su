@@ -1,0 +1,9 @@
+C:/ncs/v2.2.0/zephyr/include/zephyr/drivers/gpio.h:691:19:z_impl_gpio_pin_configure	16	static
+C:/ncs/v2.2.0/zephyr/include/zephyr/drivers/gpio.h:755:19:gpio_pin_configure_dt	8	static
+C:/ncs/v2.2.0/zephyr/include/zephyr/drivers/gpio.h:1271:19:gpio_pin_set_raw	8	static
+C:/ncs/v2.2.0/zephyr/include/zephyr/drivers/gpio.h:1311:19:gpio_pin_set	16	static
+../src/utils/board_version.c:107:12:board_version_init	40	static
+../src/utils/board_version.c:53:12:divider_value_get	8	static
+../src/utils/board_version.c:81:12:version_search	72	dynamic,bounded
+../src/utils/board_version.c:140:5:board_version_get	8	static
+../src/utils/board_version.c:162:5:board_version_valid_check	152	dynamic,bounded

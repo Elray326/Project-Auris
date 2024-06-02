@@ -1,0 +1,5 @@
+C:/ncs/v2.2.0/modules/fs/fatfs/zfs_diskio.c:39:9:disk_status	8	static
+C:/ncs/v2.2.0/modules/fs/fatfs/zfs_diskio.c:54:9:disk_initialize	8	static
+C:/ncs/v2.2.0/modules/fs/fatfs/zfs_diskio.c:69:9:disk_read	8	static
+C:/ncs/v2.2.0/modules/fs/fatfs/zfs_diskio.c:84:9:disk_write	8	static
+C:/ncs/v2.2.0/modules/fs/fatfs/zfs_diskio.c:99:9:disk_ioctl	16	static

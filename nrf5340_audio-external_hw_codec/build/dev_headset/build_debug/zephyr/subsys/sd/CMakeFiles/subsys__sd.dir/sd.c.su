@@ -1,0 +1,16 @@
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/build/dev_headset/build_debug/zephyr/include/generated/syscalls/sdhc.h:47:19:sdhc_request	8	static
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/build/dev_headset/build_debug/zephyr/include/generated/syscalls/sdhc.h:72:19:sdhc_set_io	8	static
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/build/dev_headset/build_debug/zephyr/include/generated/syscalls/sdhc.h:96:19:sdhc_card_present	8	static
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/build/dev_headset/build_debug/zephyr/include/generated/syscalls/sdhc.h:165:19:sdhc_get_host_props	8	static
+C:/ncs/v2.2.0/zephyr/subsys/sd/sd_utils.h:41:19:sd_retry	16	static
+C:/ncs/v2.2.0/zephyr/subsys/sd/sd.c:22:19:sd_idle	48	static
+C:/ncs/v2.2.0/zephyr/subsys/sd/sd.c:34:12:sd_send_interface_condition	48	static
+C:/ncs/v2.2.0/zephyr/include/zephyr/kernel.h:439:23:k_msleep	8	static
+C:/ncs/v2.2.0/zephyr/subsys/sd/sd.c:116:12:sd_init_io	16	static
+C:/ncs/v2.2.0/zephyr/subsys/sd/sd.c:70:12:sd_enable_crc	48	static
+C:/ncs/v2.2.0/zephyr/subsys/sd/sd.c:89:12:sd_common_init	8	static
+C:/ncs/v2.2.0/zephyr/subsys/sd/sd.c:167:5:sd_test_sdio	48	static
+C:/ncs/v2.2.0/zephyr/subsys/sd/sd.c:208:12:sd_check_card_type	8	static
+C:/ncs/v2.2.0/zephyr/subsys/sd/sd.c:230:12:sd_command_init	8	static
+C:/ncs/v2.2.0/zephyr/subsys/sd/sd.c:276:5:sd_init	16	static
+C:/ncs/v2.2.0/zephyr/subsys/sd/sd.c:355:6:sd_is_card_present	8	static

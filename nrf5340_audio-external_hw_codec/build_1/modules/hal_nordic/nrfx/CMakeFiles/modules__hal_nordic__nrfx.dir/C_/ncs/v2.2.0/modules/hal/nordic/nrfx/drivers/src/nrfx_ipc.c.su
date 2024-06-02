@@ -1,0 +1,11 @@
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/hal/nrf_ipc.h:485:35:nrf_ipc_receive_event_get	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_ipc.c:50:12:nrfx_ipc_init	16	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_ipc.c:67:6:nrfx_ipc_config_load	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_ipc.c:86:6:nrfx_ipc_uninit	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_ipc.c:105:6:nrfx_ipc_receive_event_enable	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_ipc.c:111:6:nrfx_ipc_receive_event_disable	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_ipc.c:117:6:nrfx_ipc_receive_event_group_enable	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_ipc.c:123:6:nrfx_ipc_receive_event_group_disable	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_ipc.c:129:6:nrfx_ipc_receive_event_channel_assign	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_ipc.c:137:6:nrfx_ipc_send_task_channel_assign	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_ipc.c:145:6:nrfx_ipc_irq_handler	16	static

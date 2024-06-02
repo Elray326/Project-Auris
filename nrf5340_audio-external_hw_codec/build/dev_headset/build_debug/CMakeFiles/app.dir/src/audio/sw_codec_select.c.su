@@ -1,0 +1,4 @@
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/audio/sw_codec_select.c:23:5:sw_codec_encode	2056	dynamic,bounded
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/audio/sw_codec_select.c:103:5:sw_codec_decode	2072	dynamic,bounded
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/audio/sw_codec_select.c:201:5:sw_codec_uninit	128	dynamic,bounded
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/audio/sw_codec_select.c:244:5:sw_codec_init	112	dynamic,bounded

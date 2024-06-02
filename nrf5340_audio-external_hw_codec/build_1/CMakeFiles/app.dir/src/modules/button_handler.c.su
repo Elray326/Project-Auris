@@ -1,0 +1,14 @@
+C:/ncs/v2.2.0/zephyr/include/zephyr/drivers/gpio.h:955:19:gpio_port_get	16	static
+C:/ncs/v2.2.0/zephyr/include/zephyr/drivers/gpio.h:1410:19:gpio_add_callback	8	static
+../src/modules/button_handler.c:66:13:on_button_debounce_timeout	0	static
+C:/ncs/v2.2.0/zephyr/include/zephyr/drivers/gpio.h:1223:19:gpio_pin_get	16	static
+C:/ncs/v2.2.0/zephyr/include/zephyr/drivers/gpio.h:691:19:z_impl_gpio_pin_configure	16	static
+C:/ncs/v2.2.0/zephyr/include/zephyr/drivers/gpio.h:1387:20:gpio_init_callback	8	static
+C:/ncs/v2.2.0/zephyr/include/zephyr/drivers/gpio.h:606:19:z_impl_gpio_pin_interrupt_configure	16	static
+../src/modules/button_handler.c:92:12:pin_msk_to_pin	64	static
+../src/modules/button_handler.c:75:12:pin_to_btn_idx	40	static
+../src/modules/button_handler.c:118:13:button_isr	200	dynamic,bounded
+../src/modules/button_handler.c:225:12:cmd_print_all_btns	24	static
+../src/modules/button_handler.c:237:12:cmd_push_btn	104	dynamic,bounded
+../src/modules/button_handler.c:157:5:button_pressed	16	static
+../src/modules/button_handler.c:184:5:button_handler_init	48	static

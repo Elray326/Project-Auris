@@ -1,0 +1,5 @@
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/common/rpa.c:42:12:internal_encrypt_le	8	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/common/rpa.c:31:12:internal_rand	8	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/common/rpa.c:55:12:ah	24	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/common/rpa.c:84:6:bt_rpa_irk_matches	16	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/common/rpa.c:101:5:bt_rpa_create	16	static

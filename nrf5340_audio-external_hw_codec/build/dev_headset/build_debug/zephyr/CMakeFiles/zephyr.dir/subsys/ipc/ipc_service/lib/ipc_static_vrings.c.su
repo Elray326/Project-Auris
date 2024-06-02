@@ -1,0 +1,13 @@
+C:/ncs/v2.2.0/zephyr/subsys/ipc/ipc_service/lib/ipc_static_vrings.c:15:13:virtio_notify	8	static
+C:/ncs/v2.2.0/zephyr/subsys/ipc/ipc_service/lib/ipc_static_vrings.c:26:13:virtio_set_features	0	static
+C:/ncs/v2.2.0/zephyr/subsys/ipc/ipc_service/lib/ipc_static_vrings.c:31:13:virtio_set_status	0	static
+C:/ncs/v2.2.0/zephyr/subsys/ipc/ipc_service/lib/ipc_static_vrings.c:46:17:virtio_get_features	0	static
+C:/ncs/v2.2.0/zephyr/subsys/ipc/ipc_service/lib/ipc_static_vrings.c:51:22:virtio_get_status	0	static
+C:/ncs/v2.2.0/zephyr/subsys/ipc/ipc_service/lib/ipc_static_vrings.c:77:12:libmetal_setup	24	static
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/build/dev_headset/build_debug/modules/libmetal/libmetal/lib/include/metal/io.h:107:20:metal_io_finish	8	static
+C:/ncs/v2.2.0/modules/lib/open-amp/open-amp/lib/include/openamp/virtqueue.h:202:33:virtqueue_allocate	16	static
+C:/ncs/v2.2.0/zephyr/subsys/ipc/ipc_service/lib/ipc_static_vrings.c:117:12:vq_setup	16	static
+C:/ncs/v2.2.0/zephyr/subsys/ipc/ipc_service/lib/ipc_static_vrings.c:150:12:vq_teardown	16	static
+C:/ncs/v2.2.0/zephyr/subsys/ipc/ipc_service/lib/ipc_static_vrings.c:106:12:libmetal_teardown	8	static
+C:/ncs/v2.2.0/zephyr/subsys/ipc/ipc_service/lib/ipc_static_vrings.c:163:5:ipc_static_vrings_init	32	static
+C:/ncs/v2.2.0/zephyr/subsys/ipc/ipc_service/lib/ipc_static_vrings.c:186:5:ipc_static_vrings_deinit	16	static

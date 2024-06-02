@@ -1,0 +1,2 @@
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/build/dev_gateway/build_debug/modules/libmetal/libmetal/lib/include/metal/system/zephyr/mutex.h:74:20:__metal_mutex_acquire	8	static
+C:/ncs/v2.2.0/modules/hal/libmetal/libmetal/lib/system/zephyr/condition.c:17:5:metal_condition_wait	24	static

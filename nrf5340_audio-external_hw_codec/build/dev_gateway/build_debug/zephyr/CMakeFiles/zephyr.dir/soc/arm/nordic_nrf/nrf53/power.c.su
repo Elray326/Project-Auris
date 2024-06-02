@@ -1,0 +1,3 @@
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/hal/nrf_regulators.h:245:24:nrf_regulators_system_off	0	static
+C:/ncs/v2.2.0/zephyr/soc/arm/nordic_nrf/nrf53/power.c:16:13:pm_state_set	8	static
+C:/ncs/v2.2.0/zephyr/soc/arm/nordic_nrf/nrf53/power.c:31:13:pm_state_exit_post_ops	0	static

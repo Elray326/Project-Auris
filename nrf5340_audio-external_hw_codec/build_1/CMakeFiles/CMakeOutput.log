@@ -1,0 +1,61 @@
+The target system is: Generic - 3.2.99 - arm
+The host system is: Windows - 10.0.22621 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/ncs/toolchains/v2.2.0/opt/zephyr-sdk/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+
+The C compiler identification is GNU, found in "C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/build_1/CMakeFiles/3.20.5/CompilerIdC/CMakeCCompilerId.o"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/ncs/toolchains/v2.2.0/opt/zephyr-sdk/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+
+The CXX compiler identification is GNU, found in "C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/build_1/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.o"
+
+Checking whether the ASM compiler is GNU using "--version" matched "(GNU assembler)|(GCC)|(Free Software Foundation)":
+arm-zephyr-eabi-gcc.exe (Zephyr SDK 0.15.1) 12.1.0
+Copyright (C) 2022 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Performing C SOURCE FILE Test check_fmacro_prefix_map_C__ncs_v2_2_0_nrf_applications_nrf5340_audio_external_hw_codec_CMAKE_SOURCE_DIR_C__nostartfiles__nostdlib__isystem__c__ncs_toolchains_v2_2_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include___isystem__c__ncs_toolchains_v2_2_0_opt_zephyr_sdk_arm_zephyr_eabi_bin____lib_gcc_arm_zephyr_eabi_12_1_0_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/build_1/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/v2.2.0/opt/bin/ninja.exe cmTC_5bf0e && [1/2] Building C object CMakeFiles/cmTC_5bf0e.dir/src.c.obj
+[2/2] Linking C executable cmTC_5bf0e
+
+
+Source file was:
+int main(void) { return 0; }
+Determining if files stdatomic.h exist passed with the following output:
+Change Dir: C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/build_1/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/v2.2.0/opt/bin/ninja.exe cmTC_16169 && [1/2] Building C object CMakeFiles/cmTC_16169.dir/HAVE_STDATOMIC_H.c.obj
+[2/2] Linking C executable cmTC_16169
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_16169.dir/HAVE_STDATOMIC_H.c.obj: linker input file unused because linking not done
+
+
+
+Determining if files fcntl.h exist passed with the following output:
+Change Dir: C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/build_1/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ncs/toolchains/v2.2.0/opt/bin/ninja.exe cmTC_56ae7 && [1/2] Building C object CMakeFiles/cmTC_56ae7.dir/HAVE_FCNTL_H.c.obj
+[2/2] Linking C executable cmTC_56ae7
+arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_56ae7.dir/HAVE_FCNTL_H.c.obj: linker input file unused because linking not done
+
+
+

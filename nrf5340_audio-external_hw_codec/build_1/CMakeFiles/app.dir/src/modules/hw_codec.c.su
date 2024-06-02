@@ -1,0 +1,14 @@
+C:/ncs/v2.2.0/zephyr/include/zephyr/drivers/gpio.h:691:19:z_impl_gpio_pin_configure	16	static
+C:/ncs/v2.2.0/zephyr/include/zephyr/drivers/gpio.h:755:19:gpio_pin_configure_dt	8	static
+C:/ncs/v2.2.0/zephyr/include/zephyr/kernel.h:439:23:k_msleep	8	static
+../src/modules/hw_codec.c:64:12:hw_codec_external_set	8	static
+../src/modules/hw_codec.c:148:12:cmd_input	8	static
+../src/modules/hw_codec.c:83:5:hw_codec_volume_set	0	static
+../src/modules/hw_codec.c:88:5:hw_codec_volume_adjust	0	static
+../src/modules/hw_codec.c:93:5:hw_codec_volume_decrease	0	static
+../src/modules/hw_codec.c:98:5:hw_codec_volume_increase	0	static
+../src/modules/hw_codec.c:103:5:hw_codec_volume_mute	0	static
+../src/modules/hw_codec.c:108:5:hw_codec_volume_unmute	0	static
+../src/modules/hw_codec.c:113:5:hw_codec_default_conf_enable	0	static
+../src/modules/hw_codec.c:118:5:hw_codec_soft_reset	0	static
+../src/modules/hw_codec.c:123:5:hw_codec_init	8	static

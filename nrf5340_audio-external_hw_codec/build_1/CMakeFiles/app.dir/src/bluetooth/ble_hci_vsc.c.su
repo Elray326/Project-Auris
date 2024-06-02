@@ -1,0 +1,7 @@
+../src/bluetooth/ble_hci_vsc.c:20:5:ble_hci_vsc_set_radio_high_pwr_mode	72	static
+../src/bluetooth/ble_hci_vsc.c:54:5:ble_hci_vsc_set_bd_addr	48	static
+../src/bluetooth/ble_hci_vsc.c:72:5:ble_hci_vsc_set_op_flag	72	static
+../src/bluetooth/ble_hci_vsc.c:101:5:ble_hci_vsc_set_adv_tx_pwr	72	static
+../src/bluetooth/ble_hci_vsc.c:129:5:ble_hci_vsc_set_conn_tx_pwr	72	static
+../src/bluetooth/ble_hci_vsc.c:158:5:ble_hci_vsc_set_pri_ext_adv_max_tx_pwr	72	static
+../src/bluetooth/ble_hci_vsc.c:185:5:ble_hci_vsc_map_led_pin	80	static

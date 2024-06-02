@@ -1,0 +1,10 @@
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/audio/streamctrl.c:198:13:stream_state_set	0	static
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/audio/streamctrl.c:226:12:test_tone_button_press	152	dynamic,bounded
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/audio/streamctrl.c:260:13:button_evt_handler	184	dynamic,bounded
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/audio/streamctrl.c:333:13:le_audio_evt_handler	160	dynamic,bounded
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/audio/streamctrl.c:106:13:le_audio_rx_data_handler	352	dynamic,bounded
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/audio/streamctrl.c:171:13:audio_datapath_thread	112	dynamic,bounded
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/audio/streamctrl.c:203:9:stream_state_get	0	static
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/audio/streamctrl.c:208:6:streamctrl_encoded_data_send	64	dynamic,bounded
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/audio/streamctrl.c:391:6:streamctrl_event_handler	64	dynamic,bounded
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/audio/streamctrl.c:415:5:streamctrl_start	224	dynamic,bounded

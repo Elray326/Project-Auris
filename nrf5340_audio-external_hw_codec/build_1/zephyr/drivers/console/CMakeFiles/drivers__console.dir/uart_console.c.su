@@ -1,0 +1,4 @@
+C:/ncs/v2.2.0/zephyr/drivers/console/uart_console.c:77:12:console_out	8	static
+C:/ncs/v2.2.0/zephyr/drivers/console/uart_console.c:573:13:uart_console_hook_install	8	static
+C:/ncs/v2.2.0/zephyr/drivers/console/uart_console.c:588:12:uart_console_init	8	static
+C:/ncs/v2.2.0/zephyr/drivers/console/uart_console.c:560:6:uart_register_input	0	static

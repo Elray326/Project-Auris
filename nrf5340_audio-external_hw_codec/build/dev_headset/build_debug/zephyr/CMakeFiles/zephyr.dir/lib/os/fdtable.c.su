@@ -1,0 +1,11 @@
+C:/ncs/v2.2.0/zephyr/lib/os/fdtable.c:109:12:_check_fd	8	static
+C:/ncs/v2.2.0/zephyr/lib/os/fdtable.c:95:12:_find_fd_entry	8	static
+C:/ncs/v2.2.0/zephyr/lib/os/fdtable.c:69:12:z_fd_unref	4	static
+C:/ncs/v2.2.0/zephyr/include/zephyr/sys/fdtable.h:121:19:z_fdtable_call_ioctl	16	static
+C:/ncs/v2.2.0/zephyr/lib/os/fdtable.c:64:12:z_fd_ref	0	static
+C:/ncs/v2.2.0/zephyr/lib/os/fdtable.c:126:7:z_get_fd_obj	16	static
+C:/ncs/v2.2.0/zephyr/lib/os/fdtable.c:144:7:z_get_fd_obj_and_vtable	16	static
+C:/ncs/v2.2.0/zephyr/lib/os/fdtable.c:163:5:z_reserve_fd	8	static
+C:/ncs/v2.2.0/zephyr/lib/os/fdtable.c:183:6:z_finalize_fd	8	static
+C:/ncs/v2.2.0/zephyr/lib/os/fdtable.c:209:6:z_free_fd	8	static
+C:/ncs/v2.2.0/zephyr/lib/os/fdtable.c:215:5:z_alloc_fd	16	static

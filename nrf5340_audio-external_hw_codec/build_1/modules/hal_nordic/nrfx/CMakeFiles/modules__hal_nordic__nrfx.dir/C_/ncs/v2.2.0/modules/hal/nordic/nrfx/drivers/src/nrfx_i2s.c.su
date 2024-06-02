@@ -1,0 +1,15 @@
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/hal/nrf_i2s.h:639:24:nrf_i2s_configure	16	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/hal/nrf_gpio.h:989:24:nrf_gpio_pin_present_check	0	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/hal/nrf_gpio.h:581:35:nrf_gpio_pin_port_decode	16	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/hal/nrf_gpio.h:621:24:nrf_gpio_cfg	32	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/hal/nrf_gpio.h:684:24:nrf_gpio_cfg_input	16	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/hal/nrf_gpio.h:672:24:nrf_gpio_cfg_output	16	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_i2s.c:92:13:configure_pins	16	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/hal/nrf_gpio.h:696:24:nrf_gpio_cfg_default	16	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_i2s.c:149:13:deconfigure_pins	24	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_i2s.c:187:12:nrfx_i2s_init	32	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_i2s.c:274:12:nrfx_i2s_start	16	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_i2s.c:350:12:nrfx_i2s_next_buffers_set	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_i2s.c:403:6:nrfx_i2s_stop	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_i2s.c:240:6:nrfx_i2s_uninit	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_i2s.c:422:6:nrfx_i2s_irq_handler	16	static

@@ -1,0 +1,4 @@
+C:/ncs/v2.2.0/zephyr/drivers/hwinfo/hwinfo_nrf.c:20:9:z_impl_hwinfo_get_device_id	24	static
+C:/ncs/v2.2.0/zephyr/drivers/hwinfo/hwinfo_nrf.c:40:5:z_impl_hwinfo_get_reset_cause	0	static
+C:/ncs/v2.2.0/zephyr/drivers/hwinfo/hwinfo_nrf.c:102:5:z_impl_hwinfo_clear_reset_cause	0	static
+C:/ncs/v2.2.0/zephyr/drivers/hwinfo/hwinfo_nrf.c:111:5:z_impl_hwinfo_get_supported_reset_cause	0	static

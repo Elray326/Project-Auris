@@ -1,0 +1,15 @@
+C:/ncs/v2.2.0/zephyr/include/zephyr/drivers/gpio.h:1271:19:gpio_pin_set_raw	8	static
+C:/ncs/v2.2.0/zephyr/include/zephyr/drivers/gpio.h:1311:19:gpio_pin_set	16	static
+../src/modules/led.c:143:12:led_set_int	16	static
+../src/modules/led.c:215:12:led_set	16	static
+C:/ncs/v2.2.0/zephyr/include/zephyr/drivers/gpio.h:691:19:z_impl_gpio_pin_configure	16	static
+C:/ncs/v2.2.0/zephyr/include/zephyr/drivers/gpio.h:755:19:gpio_pin_configure_dt	8	static
+../src/modules/led.c:195:13:led_blink_work_handler	96	dynamic,bounded
+../src/modules/led.c:185:6:led_blink_timer_handler	8	static
+../src/modules/led.c:63:12:configure_led_color	48	static
+../src/modules/led.c:80:12:config_led_monochrome	48	static
+../src/modules/led.c:96:12:led_device_tree_parse	88	dynamic,bounded
+../src/modules/led.c:234:5:led_on	56	dynamic,bounded
+../src/modules/led.c:254:5:led_blink	56	dynamic,bounded
+../src/modules/led.c:276:5:led_off	8	static
+../src/modules/led.c:281:5:led_init	16	static

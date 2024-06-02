@@ -1,0 +1,15 @@
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/mdk/nrf53_erratas.h:2502:13:nrf53_errata_53	0	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/include/nrfx_power_clock.h:44:22:nrfx_power_clock_irq_init	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_power.c:98:36:nrfx_power_pof_handler_get	0	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_power.c:110:12:nrfx_power_init	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_power.c:178:6:nrfx_power_pof_enable	0	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_power.c:198:6:nrfx_power_pof_disable	0	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_power.c:208:6:nrfx_power_pof_uninit	0	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_power.c:166:6:nrfx_power_pof_init	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_power.c:226:6:nrfx_power_sleepevt_enable	0	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_power.c:242:6:nrfx_power_sleepevt_disable	0	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_power.c:248:6:nrfx_power_sleepevt_uninit	0	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_power.c:143:6:nrfx_power_uninit	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_power.c:215:6:nrfx_power_sleepevt_init	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_power.c:290:6:nrfx_power_irq_handler	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_power.c:357:6:nrfx_power_clock_irq_handler	8	static

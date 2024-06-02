@@ -1,0 +1,8 @@
+../src/utils/data_fifo.c:21:12:msgq_slab_legal_used_elements	72	dynamic,bounded
+../src/utils/data_fifo.c:46:5:data_fifo_pointer_first_vacant_get	8	static
+../src/utils/data_fifo.c:57:5:data_fifo_block_lock	128	dynamic,bounded
+../src/utils/data_fifo.c:89:5:data_fifo_pointer_last_filled_get	24	static
+../src/utils/data_fifo.c:108:6:data_fifo_block_free	8	static
+../src/utils/data_fifo.c:116:5:data_fifo_num_used_get	24	static
+../src/utils/data_fifo.c:136:5:data_fifo_empty	112	dynamic,bounded
+../src/utils/data_fifo.c:172:5:data_fifo_init	64	dynamic,bounded

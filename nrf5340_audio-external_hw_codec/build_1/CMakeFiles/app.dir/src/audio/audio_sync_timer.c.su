@@ -1,0 +1,4 @@
+../src/audio/audio_sync_timer.c:39:13:event_handler	0	static
+../src/audio/audio_sync_timer.c:57:12:audio_sync_timer_init	192	dynamic,bounded
+../src/audio/audio_sync_timer.c:105:10:audio_sync_timer_i2s_frame_start_ts_get	0	static
+../src/audio/audio_sync_timer.c:111:10:audio_sync_timer_curr_time_get	8	static

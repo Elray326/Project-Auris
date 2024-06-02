@@ -1,0 +1,17 @@
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_timer.c:270:13:irq_handler	24	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/hal/nrf_timer.h:851:24:nrf_timer_prescaler_set	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_timer.c:75:12:nrfx_timer_init	16	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_timer.c:141:6:nrfx_timer_enable	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_timer.c:149:6:nrfx_timer_disable	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_timer.c:126:6:nrfx_timer_uninit	16	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_timer.c:157:6:nrfx_timer_is_enabled	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_timer.c:163:6:nrfx_timer_resume	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_timer.c:170:6:nrfx_timer_pause	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_timer.c:177:6:nrfx_timer_clear	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_timer.c:183:6:nrfx_timer_increment	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_timer.c:191:10:nrfx_timer_capture	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_timer.c:202:6:nrfx_timer_compare	12	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_timer.c:226:6:nrfx_timer_extended_compare	16	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_timer.c:248:6:nrfx_timer_compare_int_enable	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_timer.c:260:6:nrfx_timer_compare_int_disable	8	static
+C:/ncs/v2.2.0/modules/hal/nordic/nrfx/drivers/src/nrfx_timer.c:302:6:nrfx_timer_1_irq_handler	8	static

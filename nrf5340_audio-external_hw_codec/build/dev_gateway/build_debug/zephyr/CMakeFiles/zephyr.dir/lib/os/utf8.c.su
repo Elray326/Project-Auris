@@ -1,0 +1,2 @@
+C:/ncs/v2.2.0/zephyr/lib/os/utf8.c:17:7:utf8_trunc	8	static
+C:/ncs/v2.2.0/zephyr/lib/os/utf8.c:62:7:utf8_lcpy	16	static

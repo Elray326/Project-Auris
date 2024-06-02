@@ -1,0 +1,11 @@
+C:/ncs/v2.2.0/zephyr/subsys/usb/device/usb_descriptor.c:285:29:usb_get_cfg_data	8	static
+C:/ncs/v2.2.0/zephyr/subsys/usb/device/usb_descriptor.c:165:13:ascii7_to_utf16le	8	static
+C:/ncs/v2.2.0/zephyr/subsys/usb/device/usb_descriptor.c:227:12:usb_validate_ep_cfg_data	40	static
+C:/ncs/v2.2.0/zephyr/subsys/usb/device/usb_descriptor.c:193:5:usb_get_str_descriptor_idx	0	static
+C:/ncs/v2.2.0/zephyr/subsys/usb/device/usb_descriptor.c:305:17:usb_update_sn_string_descriptor	48	static
+C:/ncs/v2.2.0/zephyr/subsys/usb/device/usb_descriptor.c:334:13:usb_fix_ascii_sn_string_descriptor	48	static
+C:/ncs/v2.2.0/zephyr/subsys/usb/device/usb_descriptor.c:369:12:usb_fix_descriptor	144	dynamic,bounded
+C:/ncs/v2.2.0/zephyr/subsys/usb/device/usb_descriptor.c:478:10:usb_get_device_descriptor	40	static
+C:/ncs/v2.2.0/zephyr/subsys/usb/device/usb_descriptor.c:491:22:usb_get_dev_data_by_cfg	0	static
+C:/ncs/v2.2.0/zephyr/subsys/usb/device/usb_descriptor.c:510:22:usb_get_dev_data_by_iface	0	static
+C:/ncs/v2.2.0/zephyr/subsys/usb/device/usb_descriptor.c:531:22:usb_get_dev_data_by_ep	8	static

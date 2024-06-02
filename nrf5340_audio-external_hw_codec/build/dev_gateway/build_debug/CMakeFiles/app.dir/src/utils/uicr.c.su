@@ -1,0 +1,3 @@
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/utils/uicr.c:17:9:uicr_channel_get	0	static
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/utils/uicr.c:22:5:uicr_channel_set	8	static
+C:/ncs/v2.2.0/nrf/applications/nrf5340_audio-external_hw_codec/src/utils/uicr.c:39:10:uicr_snr_get	0	static

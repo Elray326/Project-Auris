@@ -1,0 +1,11 @@
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/audio/cap_stream.c:10:13:cap_stream_configured_cb	8	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/audio/cap_stream.c:23:13:cap_stream_qos_set_cb	8	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/audio/cap_stream.c:35:13:cap_stream_enabled_cb	8	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/audio/cap_stream.c:47:13:cap_stream_metadata_updated_cb	8	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/audio/cap_stream.c:59:13:cap_stream_disabled_cb	8	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/audio/cap_stream.c:71:13:cap_stream_released_cb	8	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/audio/cap_stream.c:85:13:cap_stream_started_cb	8	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/audio/cap_stream.c:97:13:cap_stream_stopped_cb	8	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/audio/cap_stream.c:110:13:cap_stream_recv_cb	8	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/audio/cap_stream.c:126:13:cap_stream_sent_cb	8	static
+C:/ncs/v2.2.0/zephyr/subsys/bluetooth/audio/cap_stream.c:158:6:bt_cap_stream_ops_register	8	static

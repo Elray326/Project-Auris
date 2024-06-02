@@ -1,0 +1,12 @@
+C:/ncs/v2.2.0/zephyr/kernel/mailbox.c:110:12:mbox_message_match	4	static
+C:/ncs/v2.2.0/zephyr/kernel/mailbox.c:52:12:init_mbox_module	16	static
+C:/ncs/v2.2.0/zephyr/kernel/mailbox.c:221:12:mbox_message_put	56	static
+C:/ncs/v2.2.0/zephyr/kernel/mailbox.c:34:20:mbox_async_alloc	8	static
+C:/ncs/v2.2.0/zephyr/kernel/include/ksched.h:73:20:z_reschedule_unlocked	8	static
+C:/ncs/v2.2.0/zephyr/kernel/mailbox.c:162:13:mbox_message_dispose	8	static
+C:/ncs/v2.2.0/zephyr/kernel/mailbox.c:89:6:k_mbox_init	0	static
+C:/ncs/v2.2.0/zephyr/kernel/mailbox.c:306:5:k_mbox_put	8	static
+C:/ncs/v2.2.0/zephyr/kernel/mailbox.c:322:6:k_mbox_async_put	32	static
+C:/ncs/v2.2.0/zephyr/kernel/mailbox.c:346:6:k_mbox_data_get	8	static
+C:/ncs/v2.2.0/zephyr/kernel/mailbox.c:378:12:mbox_message_data_check	8	static
+C:/ncs/v2.2.0/zephyr/kernel/mailbox.c:393:5:k_mbox_get	48	static
